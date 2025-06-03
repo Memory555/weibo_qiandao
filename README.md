@@ -1,6 +1,6 @@
 # window实现自动每天定时指定目标超话签到
 
-**注意：如果为黄子弘凡的官方超话，可直接操作完步骤一后跳转到步骤五添加auto_signin_lars.exe到任务计划程序即可）**
+**注意：如果为黄子弘凡的官方超话，可直接将程序：save_cookie.exe放置到“C:\Windows\System32”中，运行它选择你放置的chromedriver位置跳转登录等待60秒得到“weibo_cookies.pkl”直接后跳转到步骤五添加auto_signin_lars.exe到任务计划程序即可**
 
 作者本人是在anaconda配置的实验虚拟环境，这里提供一下自己的环境创建过程以供参考用于步骤二，三，四：
 
